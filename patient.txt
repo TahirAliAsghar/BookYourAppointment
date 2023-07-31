@@ -1,0 +1,23 @@
+
+========================
+ APPOINTMENT BOOKED FOR: 
+========================
+
+Name: Tahir
+Contact #: 03152630887
+Address: dha
+Age: 20
+Pediatrician: Dr.Amna
+Time: 4:15
+Date: 12/2
+Day: wednesday
+========================
+ APPOINTMENT BOOKED FOR: 
+========================
+
+Name: Tahir
+Contact #: 03152630887
+Address: dha
+Age: 20
+Day: Monday
+Time: 9:00-10:00
